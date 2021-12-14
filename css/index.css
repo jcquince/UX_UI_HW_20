@@ -1,0 +1,133 @@
+p {
+    font-size: 18px;
+}
+
+/* Navigation Section --------------------------------------------------------------------*/
+
+.nav {
+    background-color: #343434;
+    height: 60px;
+    align-content: center;
+}
+
+.nav-link {
+    color: white;
+}
+
+/* Introduction Section --------------------------------------------------------------------*/
+
+.jumbotron {
+    background-color: #B66CFF;
+    color: white;
+}
+
+.display-4 {
+    display: flex;
+    justify-content: center;
+}
+
+.intro {
+    display: flex;
+    flex-direction: column;
+    padding-left: 500px;
+    padding-right: 500px;
+    padding-top: 40px;
+}
+
+/* Research Section --------------------------------------------------------------------*/
+
+.research {
+    display: flex;
+    flex-direction: column;
+    padding-left: 500px;
+    padding-right: 500px;
+    padding-top: 80px;
+}
+
+.col-sm {
+    padding-bottom: 30px;
+}
+
+.affdiag img {
+    height: 350px;
+    width: 100%;
+}
+
+/* Problem Section --------------------------------------------------------------------*/
+
+.problem {
+    display: flex;
+    flex-direction: column;
+    padding-left: 500px;
+    padding-right: 500px;
+    padding-top: 80px;
+}
+
+/* Iteration Section --------------------------------------------------------------------*/
+
+.iteration {
+    display: flex;
+    flex-direction: column;
+    padding-left: 500px;
+    padding-right: 500px;
+    padding-top: 80px;
+}
+
+.sitemap img {
+    height: 350px;
+    width: 100%;
+}
+
+.userflow img {
+    height: 350px;
+    width: 100%;
+}
+
+.styleguide img {
+    height: 350px;
+    width: 100%;
+}
+
+
+/* tried to get the content in the iteration section to align 
+with the photos for nice spacing, but couldn't figure it out */
+
+#line1 {
+    display: flex;
+    align-content: center;
+}
+
+#line2 {
+    display: flex;
+    align-content: center;
+}
+
+#line3 {
+    display: flex;
+    align-content: center;
+}
+
+/* Prototype Section --------------------------------------------------------------------*/
+
+.prototype {
+    display: flex;
+    flex-direction: column;
+    padding-left: 500px;
+    padding-right: 500px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+.currentsite img {
+    height: 350px;
+    width: 100%;
+}
+
+.finalproto img {
+    height: 600px;
+    width: 100%;
+}
